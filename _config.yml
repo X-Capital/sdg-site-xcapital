@@ -140,7 +140,7 @@ footer_menu:
 
 # Configure the text (or "translation key") to be used on the
 # non-global metadata tab.
-non_global_metadata: indicator.national_metadata
+non_global_metadata: Local Metadata
 future: true
 timezone: Africa/Johannesburg
 
