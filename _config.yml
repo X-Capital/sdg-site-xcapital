@@ -141,8 +141,8 @@ footer_menu:
 # Configure the text (or "translation key") to be used on the
 # non-global metadata tab.
 non_global_metadata: Local Metadata
-future: true
-timezone: Africa/Johannesburg
+#future: true
+#timezone: Africa/Johannesburg
 
 # The list of languages that are translated. The first one is the default.
 languages:
