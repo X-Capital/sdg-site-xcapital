@@ -62,7 +62,7 @@ analytics:
 
 # Replace the email addresses below.
 email_contacts:
-  questions: test@example.com
+  questions: admin@xcapital.africa
   suggestions: test@example.com
   functional: test@example.com
 
