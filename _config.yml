@@ -63,8 +63,8 @@ analytics:
 # Replace the email addresses below.
 email_contacts:
   questions: admin@xcapital.africa
-  suggestions: test@example.com
-  functional: test@example.com
+  suggestions: admin@xcapital.africa
+  functional: admin@xcapital.africa
 
 # International Support
 # Eg name: Australia and adjective: Australian
@@ -157,17 +157,20 @@ goal_image_base: https://open-sdg.org/sdg-translations/assets/img/goals
 plugins:
   - jekyll-remote-theme
   - jekyll-open-sdg-plugins
+  
+# Tell the Remote Theme plugin to use the Open SDG platform (Jekyll theme).
+remote_theme: open-sdg/open-sdg@0.9.4  
 
 # Exclude some files/folders.
-exclude:
-  - vendor
-  - scripts
-  - remotedata
-  - Gemfile
-  - Gemfile.lock
-  - README
-  - README.md
-  - LICENSE
+#exclude:
+#  - vendor
+#  - scripts
+#  - remotedata
+#  - Gemfile
+#  - Gemfile.lock
+#  - README
+#  - README.md
+#  - LICENSE
 
 # Optionally uncomment and update the settings below to control the mapping functionality.
 # These are only a few of the possible settings. For more details, see:
