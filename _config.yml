@@ -90,7 +90,7 @@ frontpage_cards:
       'https://www.africancentreforcities.net/unpacking-sdg-implementation-ethekwini/' 
     button_label: Read more
     button_link: https://example.com
-  - title: Upcoming Events
+  - title: Upcoming Events 
     content: |
       http://www.durban.gov.za/City_Services/development_planning_management/environmental_planning_climate_protection/Projects/Documents/CommonwealthGamesRoadmap.pdf
     button_label: Read more 
