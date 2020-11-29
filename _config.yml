@@ -96,7 +96,7 @@ frontpage_cards:
     button_label: Read more 
     button_link: https://example.com
 
-# Pages
+# Pages 
 collections:
   pages:
     output: true
