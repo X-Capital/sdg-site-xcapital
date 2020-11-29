@@ -92,9 +92,8 @@ frontpage_cards:
     button_link: https://example.com
   - title: Upcoming Events
     content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
-    button_label: Read more
+      http://www.durban.gov.za/City_Services/development_planning_management/environmental_planning_climate_protection/Projects/Documents/CommonwealthGamesRoadmap.pdf
+    button_label: Read more 
     button_link: https://example.com
 
 # Pages
