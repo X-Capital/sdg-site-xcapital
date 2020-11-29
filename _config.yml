@@ -85,13 +85,12 @@ frontpage_goals_grid:
 frontpage_cards:
   - title: frontpage.download_all
     include: components/download-all-data.html
-  - title: Lorem ipsum
+  - title: In The News
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+      https://www.africancentreforcities.net/unpacking-sdg-implementation-ethekwini/ 
     button_label: Read more
     button_link: https://example.com
-  - title: Nam vestibulum
+  - title: Upcoming Events
     content: |
       Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
       interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
@@ -131,9 +130,9 @@ menu:
 footer_menu:
   - path: mailto:my-email-address@example.com
     translation_key: menu.contact_us
-  - path: https://twitter.com/MyTwitterAccount
+  - path: https://twitter.com/eThekwiniM
     translation_key: general.twitter
-  - path: https://facebook.com/MyFacebookAccount
+  - path: https://facebook.com/eThekwiniM
     translation_key: general.facebook
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
