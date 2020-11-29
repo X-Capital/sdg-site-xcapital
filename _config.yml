@@ -87,7 +87,7 @@ frontpage_cards:
     include: components/download-all-data.html
   - title: In The News
     content: |
-      https://www.africancentreforcities.net/unpacking-sdg-implementation-ethekwini/ 
+      'https://www.africancentreforcities.net/unpacking-sdg-implementation-ethekwini/' 
     button_label: Read more
     button_link: https://example.com
   - title: Upcoming Events
