@@ -10,7 +10,7 @@ baseurl: "/sdg-site-xcapital"
 # go to your data repository in Github, and click "Settings", then scroll down to the
 # "Github Pages" section. Copy/paste the link in the green section.
 remote_data_prefix: "https://x-capital.github.io/sdg-data-xcapital/"
-# In the next few items, replace "open-sdg" with the name of your GitHub
+#  In the next few items, replace "open-sdg" with the name of your GitHub
 # organization, and "open-sdg-data-starter" with the name of your data repository.
 # URL for the "Edit Data" button on indicators.
 data_edit_url: http://prose.io/#X-Capital/sdg-data-xcapital/edit/develop/data/indicator_[id].csv
